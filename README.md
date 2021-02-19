@@ -1,7 +1,7 @@
 # Meow API
 Project Idea from a list of [Free APIs](https://github.com/public-apis/public-apis) when I used both [Cats](https://docs.thecatapi.com/) and [Meow Facts](https://www.programmableweb.com/api/meow-facts)
 
-Like [PurrFacts App](https://github.com/alanhcrdz/purrfacts), but this small aplication was built with React, and instead calling API data using fecth, this Application uses async function and axios, for get multiple data from different API calls.
+Like [PurrFacts App](https://github.com/alanhcrdz/purrfacts), but this small aplication was built with React, and instead calling API data using fetch, this Application uses async function and axios, for get multiple data from different API calls.
 
 ## Features:
 <ul>
